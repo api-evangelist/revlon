@@ -19,7 +19,7 @@ description: >-
   EDI / GDSN feeds for retailers, and the corporate procurement portal).
 url: >-
   https://raw.githubusercontent.com/api-evangelist/revlon/refs/heads/main/apis.yml
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 type: Index
 access: Internal
 position: Consuming
