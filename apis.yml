@@ -54,7 +54,7 @@ apis: []
 common:
   - type: Website
     url: https://www.revlon.com/
-  - type: CorporateWebsite
+  - type: Website
     url: https://corporate.revlon.com/
   - type: AboutUs
     url: https://www.revlon.com/pages/our-company
@@ -86,7 +86,7 @@ common:
     url: https://corporate.revlon.com/suppliers/
   - type: ContactUs
     url: https://www.revlon.com/pages/contact-us
-  - type: CustomerService
+  - type: Support
     url: https://www.revlon.com/pages/customer-service
   - type: FAQ
     url: https://www.revlon.com/pages/general-inquiry-faqs
@@ -100,7 +100,7 @@ common:
     url: https://www.revlon.com/blogs/news
   - type: PrivacyPolicy
     url: https://www.revlon.com/pages/privacy-policy
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.revlon.com/pages/terms-of-use
   - type: PrivacyChoices
     url: https://www.revlon.com/pages/your-privacy-choices
