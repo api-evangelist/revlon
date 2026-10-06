@@ -94,10 +94,14 @@ tags_raw:
   - Skin Care
   - Supplier Portal
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.revlon.com/blogs/makeup
+    type: Blog
+  - url: https://www.revlon.com/blogs/makeup.atom
+    type: BlogRSS
   - type: DomainSecurity
     url: security/revlon-domain-security.yml
   - type: Website
